@@ -1,16 +1,17 @@
-## Hi there 👋
+written-material.net is an expansion of:
+-------------------------------------------------------------------------------
+THE STATIC SITE PROJECT
+--------------------------------------------------------------------------------
+It is, really, a small bookstore and graphic design studio. It is also a part of 
+a larger project that looks to shift the paradigm of web design away from the ultra
+responsive and resource intensive status quo. It exists within the growing movement 
+of people who are shifting the internet back to the vernacular and a mindset of 
+degrowth. Purchasing requires human connection and communication. The "Prof. Dr." 
+style template is bare-bones and free to be copied, altered, and otherwise (mis)used.
 
-<!--
-**written-material/written-material** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It is both an e-commerce platform and a manifesto.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--------------------------------------------------------------------------------
+Please feel free to reach out with any questions or if you just want to connect.
+howdy@wiggs.de aren.a: https://www.are.na/dev-plant
+-------------------------------------------------------------------------------
