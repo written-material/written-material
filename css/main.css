@@ -1,0 +1,125 @@
+/* This project is built by:
+ * Dev Wiggers <howdy@wiggs.de>
+ * and it is version:
+ * 002 (001 was a google spreadsheet)
+ */
+
+/* ************************************************************************** */
+/* BASE RULES */
+/* The base rules are those that apply to all pages, think of these as a style guide */
+
+/* Body Text */
+body {
+    color: #222;
+    background-color: #ffffff;
+    font-size: 20px;
+    font-style: normal;
+    font-family: sans-serif;
+    padding: 25px;
+}
+
+/* Title text */
+h1 {
+  font-size: 5rem;
+}
+
+/* Large header */
+h2 {
+  font-size: 2.5rem;
+}
+
+/* Header */
+h3 {
+  font-size: 2rem;
+}
+
+/* Small header */
+h4 {
+  font-size: 1.5rem;
+}
+
+/* Smallest header */
+h5 {
+  font-size: 1rem;
+}
+
+/* Footer */
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #e0d2ff;
+  color: white;
+  text-align: center;
+  overflow: hidden;
+}
+
+
+/* Underline */
+u {
+  text-decoration: none;
+  border-bottom: 0.5px solid #222222;
+}
+
+/* Highlight */
+mark {
+	background-color:#e0d2ff;
+	color:white;
+	}
+
+/* Link styles*/
+a:link {
+    color:white;
+    text-decoration: none;
+    background-color:#e0d2ff;
+}
+a:visited {
+    color:black;
+}
+a:active{
+    color:white;
+}
+a:hover{
+    color:black;
+}
+
+/* Ticker Text */
+#animated-text-strip{
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  overflow: hidden;
+}
+#animated-text-strip .marquee {
+  white-space: nowrap;
+  animation: marquee 10s linear infinite;
+  max-width: none;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(-100%, 0);
+  }
+}
+
+/* Styles for the sake of the demonstration */
+#animated-text-strip{
+  background:#e0d2ff;
+  padding: 1rem 0;
+}
+.marquee{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  text-transform: lowercase;
+  color: white;
+}
+
+/* Small Font */
+.small {
+    font-size: 12px;
+    }
